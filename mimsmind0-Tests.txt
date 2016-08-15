@@ -1,0 +1,30 @@
+Bs-MacBook-Air:D08 SelBerthely$ python3 mimsmind0.py 2
+Let's play the mimsmind0 game.
+RANDOM:  17
+Guess a 2-digit number: 2
+Try again. Guess a higher number: 3
+Try again. Guess a higher number: 10
+Try again. Guess a higher number: 17
+Congratulations. You guessed the correct number in 4 tries.
+Do you want to try again? Yes/No:  
+yes
+Let's play the mimsmind0 game.
+RANDOM:  57
+Guess a 2-digit number: 50
+Try again. Guess a higher number: 80
+Try again. Guess a lower number: 75
+Try again. Guess a lower number: 60
+Try again. Guess a lower number: 55
+Try again. Guess a higher number: 53
+Try again. Guess a higher number: 52
+Try again. Guess a higher number: 57
+Congratulations. You guessed the correct number in 8 tries.
+Do you want to try again? Yes/No:  
+yes
+Let's play the mimsmind0 game.
+RANDOM:  51
+Guess a 2-digit number: 50
+Try again. Guess a higher number: 51
+Congratulations. You guessed the correct number in 2 tries.
+Do you want to try again? Yes/No:  
+no

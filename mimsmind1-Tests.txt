@@ -1,0 +1,73 @@
+Bs-MacBook-Air:D08 SelBerthely$ python3 mimsmind1.py 2
+Let's play the mimsmind1 game. You have 6 guesses.
+Guess a 2-digit number: 50
+0 bull(s), 0 cow(s). Try again:49
+0 bull(s), 0 cow(s). Try again:38
+0 bull(s), 0 cow(s). Try again:27
+1 bull(s), 0 cow(s). Try again:17
+0 bull(s), 0 cow(s). Try again:26
+Maximum number of tries reached, Sorry!!
+Do you want to try again? Yes/No:  
+yes
+Let's play the mimsmind1 game. You have 6 guesses.
+Guess a 2-digit number: 50
+0 bull(s), 0 cow(s). Try again:49
+1 bull(s), 0 cow(s). Try again:39
+0 bull(s), 0 cow(s). Try again:48
+1 bull(s), 0 cow(s). Try again:47
+1 bull(s), 0 cow(s). Try again:46
+Congratulations. You guessed the correct number in 6 tries.
+Do you want to try again? Yes/No:  
+no
+Bs-MacBook-Air:D08 SelBerthely$ python3 mimsmind1.py 1
+Let's play the mimsmind1 game. You have 3 guesses.
+Guess a 1-digit number: 5
+0 bull(s), 0 cow(s). Try again:4
+0 bull(s), 0 cow(s). Try again:8
+Maximum number of tries reached, Sorry!!
+Do you want to try again? Yes/No:  
+no
+Bs-MacBook-Air:D08 SelBerthely$ python3 mimsmind1.py 1
+Let's play the mimsmind1 game. You have 0 guesses.
+Guess a 1-digit number: 4
+Congratulations. You guessed the correct number in 1 tries.
+Do you want to try again? Yes/No:  
+no
+Bs-MacBook-Air:D08 SelBerthely$ python3 mimsmind1.py 1
+Let's play the mimsmind1 game. You have 3 guesses.
+Guess a 1-digit number: 3
+0 bull(s), 0 cow(s). Try again:3
+0 bull(s), 0 cow(s). Try again:4
+Maximum number of tries reached, Sorry!!
+Do you want to try again? Yes/No:  
+yes
+Let's play the mimsmind1 game. You have 3 guesses.
+Guess a 1-digit number: 6
+0 bull(s), 0 cow(s). Try again:5
+0 bull(s), 0 cow(s). Try again:1
+Maximum number of tries reached, Sorry!!
+Do you want to try again? Yes/No:  
+no
+Bs-MacBook-Air:D08 SelBerthely$ python3 mimsmind1.py 1
+Let's play the mimsmind1 game. You have 3 guesses.
+Guess a 1-digit number: 4
+0 bull(s), 0 cow(s). Try again:5
+0 bull(s), 0 cow(s). Try again:6
+Maximum number of tries reached, Sorry!!
+Do you want to try again? Yes/No:  
+no
+Bs-MacBook-Air:D08 SelBerthely$ python3 mimsmind1.py 
+Let's play the mimsmind1 game. You have 11 guesses.
+Guess a 3-digit number: 500
+0 bull(s), 0 cow(s). Try again:498
+1 bull(s), 1 cow(s). Try again:497
+1 bull(s), 0 cow(s). Try again:468
+0 bull(s), 1 cow(s). Try again:239
+0 bull(s), 2 cow(s). Try again:193
+1 bull(s), 0 cow(s). Try again:792
+2 bull(s), 0 cow(s). Try again:793
+1 bull(s), 0 cow(s). Try again:492
+2 bull(s), 0 cow(s). Try again:892
+Congratulations. You guessed the correct number in 10 tries.
+Do you want to try again? Yes/No:  
+no

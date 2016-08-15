@@ -101,7 +101,7 @@ def gen_random():
 # # Rutine to retrieve the length that the random number will have
 def get_number_length():
 	try:
-		return int(sys.argv[1])
+		return int(sys.argv[1])				# # Get the firts argument
 	except:
 		return 3
 
